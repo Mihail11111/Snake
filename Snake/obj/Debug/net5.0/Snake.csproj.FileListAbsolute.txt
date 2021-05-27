@@ -1,0 +1,16 @@
+C:\visual studio 2019\Snake\Snake\bin\Debug\net5.0\Snake.exe
+C:\visual studio 2019\Snake\Snake\bin\Debug\net5.0\Snake.deps.json
+C:\visual studio 2019\Snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.json
+C:\visual studio 2019\Snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.dev.json
+C:\visual studio 2019\Snake\Snake\bin\Debug\net5.0\Snake.dll
+C:\visual studio 2019\Snake\Snake\bin\Debug\net5.0\ref\Snake.dll
+C:\visual studio 2019\Snake\Snake\bin\Debug\net5.0\Snake.pdb
+C:\visual studio 2019\Snake\Snake\obj\Debug\net5.0\Snake.csproj.AssemblyReference.cache
+C:\visual studio 2019\Snake\Snake\obj\Debug\net5.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio 2019\Snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfoInputs.cache
+C:\visual studio 2019\Snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfo.cs
+C:\visual studio 2019\Snake\Snake\obj\Debug\net5.0\Snake.csproj.CoreCompileInputs.cache
+C:\visual studio 2019\Snake\Snake\obj\Debug\net5.0\Snake.dll
+C:\visual studio 2019\Snake\Snake\obj\Debug\net5.0\ref\Snake.dll
+C:\visual studio 2019\Snake\Snake\obj\Debug\net5.0\Snake.pdb
+C:\visual studio 2019\Snake\Snake\obj\Debug\net5.0\Snake.genruntimeconfig.cache
